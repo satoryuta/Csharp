@@ -1,0 +1,10 @@
+C:\Users\sator\source\repos\CS10_03_03\CS10_03_03\bin\Debug\CS10_03_03.exe.config
+C:\Users\sator\source\repos\CS10_03_03\CS10_03_03\bin\Debug\CS10_03_03.exe
+C:\Users\sator\source\repos\CS10_03_03\CS10_03_03\bin\Debug\CS10_03_03.pdb
+C:\Users\sator\source\repos\CS10_03_03\CS10_03_03\obj\Debug\CS10_03_03.csprojAssemblyReference.cache
+C:\Users\sator\source\repos\CS10_03_03\CS10_03_03\obj\Debug\CS10_03_03.Form1.resources
+C:\Users\sator\source\repos\CS10_03_03\CS10_03_03\obj\Debug\CS10_03_03.Properties.Resources.resources
+C:\Users\sator\source\repos\CS10_03_03\CS10_03_03\obj\Debug\CS10_03_03.csproj.GenerateResource.cache
+C:\Users\sator\source\repos\CS10_03_03\CS10_03_03\obj\Debug\CS10_03_03.csproj.CoreCompileInputs.cache
+C:\Users\sator\source\repos\CS10_03_03\CS10_03_03\obj\Debug\CS10_03_03.exe
+C:\Users\sator\source\repos\CS10_03_03\CS10_03_03\obj\Debug\CS10_03_03.pdb
