@@ -1,0 +1,10 @@
+C:\Users\180598\source\repos\CS12_01_03\CS12_01_03\bin\Debug\CS12_01_03.exe.config
+C:\Users\180598\source\repos\CS12_01_03\CS12_01_03\bin\Debug\CS12_01_03.exe
+C:\Users\180598\source\repos\CS12_01_03\CS12_01_03\bin\Debug\CS12_01_03.pdb
+C:\Users\180598\source\repos\CS12_01_03\CS12_01_03\obj\Debug\CS12_01_03.csprojAssemblyReference.cache
+C:\Users\180598\source\repos\CS12_01_03\CS12_01_03\obj\Debug\CS12_01_03.Form1.resources
+C:\Users\180598\source\repos\CS12_01_03\CS12_01_03\obj\Debug\CS12_01_03.Properties.Resources.resources
+C:\Users\180598\source\repos\CS12_01_03\CS12_01_03\obj\Debug\CS12_01_03.csproj.GenerateResource.cache
+C:\Users\180598\source\repos\CS12_01_03\CS12_01_03\obj\Debug\CS12_01_03.csproj.CoreCompileInputs.cache
+C:\Users\180598\source\repos\CS12_01_03\CS12_01_03\obj\Debug\CS12_01_03.exe
+C:\Users\180598\source\repos\CS12_01_03\CS12_01_03\obj\Debug\CS12_01_03.pdb

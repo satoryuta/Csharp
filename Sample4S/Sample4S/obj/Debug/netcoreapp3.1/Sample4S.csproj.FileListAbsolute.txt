@@ -1,0 +1,13 @@
+C:\Users\180598\source\repos\Sample4S\Sample4S\bin\Debug\netcoreapp3.1\Sample4S.exe
+C:\Users\180598\source\repos\Sample4S\Sample4S\bin\Debug\netcoreapp3.1\Sample4S.deps.json
+C:\Users\180598\source\repos\Sample4S\Sample4S\bin\Debug\netcoreapp3.1\Sample4S.runtimeconfig.json
+C:\Users\180598\source\repos\Sample4S\Sample4S\bin\Debug\netcoreapp3.1\Sample4S.runtimeconfig.dev.json
+C:\Users\180598\source\repos\Sample4S\Sample4S\bin\Debug\netcoreapp3.1\Sample4S.dll
+C:\Users\180598\source\repos\Sample4S\Sample4S\bin\Debug\netcoreapp3.1\Sample4S.pdb
+C:\Users\180598\source\repos\Sample4S\Sample4S\obj\Debug\netcoreapp3.1\Sample4S.csprojAssemblyReference.cache
+C:\Users\180598\source\repos\Sample4S\Sample4S\obj\Debug\netcoreapp3.1\Sample4S.AssemblyInfoInputs.cache
+C:\Users\180598\source\repos\Sample4S\Sample4S\obj\Debug\netcoreapp3.1\Sample4S.AssemblyInfo.cs
+C:\Users\180598\source\repos\Sample4S\Sample4S\obj\Debug\netcoreapp3.1\Sample4S.csproj.CoreCompileInputs.cache
+C:\Users\180598\source\repos\Sample4S\Sample4S\obj\Debug\netcoreapp3.1\Sample4S.dll
+C:\Users\180598\source\repos\Sample4S\Sample4S\obj\Debug\netcoreapp3.1\Sample4S.pdb
+C:\Users\180598\source\repos\Sample4S\Sample4S\obj\Debug\netcoreapp3.1\Sample4S.genruntimeconfig.cache

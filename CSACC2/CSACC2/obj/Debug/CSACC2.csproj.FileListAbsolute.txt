@@ -1,0 +1,10 @@
+C:\Users\180598\source\repos\CSACC2\CSACC2\bin\Debug\CSACC2.exe.config
+C:\Users\180598\source\repos\CSACC2\CSACC2\bin\Debug\CSACC2.exe
+C:\Users\180598\source\repos\CSACC2\CSACC2\bin\Debug\CSACC2.pdb
+C:\Users\180598\source\repos\CSACC2\CSACC2\obj\Debug\CSACC2.csprojAssemblyReference.cache
+C:\Users\180598\source\repos\CSACC2\CSACC2\obj\Debug\CSACC2.Form1.resources
+C:\Users\180598\source\repos\CSACC2\CSACC2\obj\Debug\CSACC2.Properties.Resources.resources
+C:\Users\180598\source\repos\CSACC2\CSACC2\obj\Debug\CSACC2.csproj.GenerateResource.cache
+C:\Users\180598\source\repos\CSACC2\CSACC2\obj\Debug\CSACC2.csproj.CoreCompileInputs.cache
+C:\Users\180598\source\repos\CSACC2\CSACC2\obj\Debug\CSACC2.exe
+C:\Users\180598\source\repos\CSACC2\CSACC2\obj\Debug\CSACC2.pdb

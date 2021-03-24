@@ -1,0 +1,10 @@
+C:\Users\180598\source\repos\Sample4C\Sample4C\bin\Debug\Sample4C.exe.config
+C:\Users\180598\source\repos\Sample4C\Sample4C\bin\Debug\Sample4C.exe
+C:\Users\180598\source\repos\Sample4C\Sample4C\bin\Debug\Sample4C.pdb
+C:\Users\180598\source\repos\Sample4C\Sample4C\obj\Debug\Sample4C.csprojAssemblyReference.cache
+C:\Users\180598\source\repos\Sample4C\Sample4C\obj\Debug\Sample4C.Form1.resources
+C:\Users\180598\source\repos\Sample4C\Sample4C\obj\Debug\Sample4C.Properties.Resources.resources
+C:\Users\180598\source\repos\Sample4C\Sample4C\obj\Debug\Sample4C.csproj.GenerateResource.cache
+C:\Users\180598\source\repos\Sample4C\Sample4C\obj\Debug\Sample4C.csproj.CoreCompileInputs.cache
+C:\Users\180598\source\repos\Sample4C\Sample4C\obj\Debug\Sample4C.exe
+C:\Users\180598\source\repos\Sample4C\Sample4C\obj\Debug\Sample4C.pdb

@@ -1,0 +1,10 @@
+C:\Users\180598\source\repos\CSACC\CSACC\bin\Debug\CSACC.exe.config
+C:\Users\180598\source\repos\CSACC\CSACC\bin\Debug\CSACC.exe
+C:\Users\180598\source\repos\CSACC\CSACC\bin\Debug\CSACC.pdb
+C:\Users\180598\source\repos\CSACC\CSACC\obj\Debug\CSACC.csprojAssemblyReference.cache
+C:\Users\180598\source\repos\CSACC\CSACC\obj\Debug\CSACC.Form1.resources
+C:\Users\180598\source\repos\CSACC\CSACC\obj\Debug\CSACC.Properties.Resources.resources
+C:\Users\180598\source\repos\CSACC\CSACC\obj\Debug\CSACC.csproj.GenerateResource.cache
+C:\Users\180598\source\repos\CSACC\CSACC\obj\Debug\CSACC.csproj.CoreCompileInputs.cache
+C:\Users\180598\source\repos\CSACC\CSACC\obj\Debug\CSACC.exe
+C:\Users\180598\source\repos\CSACC\CSACC\obj\Debug\CSACC.pdb
